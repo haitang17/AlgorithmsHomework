@@ -1,0 +1,4 @@
+﻿  closestPoint.cpp
+d:\vscpp\algorithm\closestpoint\closestpoint.cpp(22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vscpp\algorithm\closestpoint\closestpoint.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ClosestPoint.vcxproj -> D:\vsCpp\Algorithm\Debug\ClosestPoint.exe
